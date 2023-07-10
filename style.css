@@ -1,0 +1,16 @@
+.cod{
+  padding:center;
+}
+input[type="text"] {
+  padding-left:3cm ;
+  block-size: 17px;
+}
+fieldset{
+  width: 13cm;
+  font-size: 15px;
+  
+}
+fieldset.field {
+  color: red;
+  width: 10cm;
+}
